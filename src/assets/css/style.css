@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  width: 100%;
+  height: auto;
+  overflow-x: hidden;
+}
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+h1,
+h2,
+p,
+a,
+ul,
+li,
+input,
+button,
+textarea,
+select,
+option,
+table,
+th,
+td {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+  color: #000;
+}
